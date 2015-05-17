@@ -1,2 +1,2 @@
-# SQLITE-Disparador-INSERT
-Creacion de un trigger o disparador con la funcion de insercion en SQLITE.
+# SQLITE - Auditoria - Disparador
+Creacion de trigger o disparador con la funcion de auditoria(insert, update y delete) en SQLITE.
